@@ -1,0 +1,33 @@
+{
+    "station":
+    [
+     {
+     "name": "Scout Radio",
+     "streamURL": "https://scout.radio/play/podcast-download/4689/live.mp3",
+     "imageURL": "Scout Radio.imageset",
+     "desc": "The Soundtrack to Your Scouting",
+     "longDesc": "Scout Radio is a National Scout Active Support Unit of The Scout Association with the aim of supporting broadcast radio within scouting. "
+     },
+     {
+     "name": "Avon Scout Radio",
+     "streamURL": "https://avonscoutradio.radioca.st/stream2",
+     "imageURL": "https://avonscoutradio.org.uk/wp-content/uploads/elementor/thumbs/cropped-ASRBlack2018-300x216-1-p1n2wl7e1p7gsfvnco086a7yfng0q84omar9oxlyaw.png",
+     "desc": " ",
+     "longDesc": " "
+     },
+     {
+     "name": "JOTA / JOTI Radio",
+     "streamURL": "https://avonscoutradio.radioca.st/stream2",
+     "imageURL": "https://jotiradio.org/wp-content/uploads/2020/09/JR10YearsLogo.png",
+     "desc": " ",
+     "longDesc": "JOTI Radio is the official JOTA-JOTI radio station with trusted partner status. We provide non-stop, live broadcasts throughout the event from our UK studios and are powered by the wonderful team at Avon Scout Radio."
+     },
+     {
+     "name": "Bucks Scout Radio ",
+     "streamURL": "https://garystaff.radioca.st/stream",
+     "imageURL": "https://bucksscoutradio.co.uk/wp-content/uploads/2020/02/BSR-Logo-Garment-768x824.jpg",
+     "desc": "Your On Air Scouting Adventure",
+     "longDesc": " "
+     }
+    ]
+}
